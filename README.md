@@ -2,7 +2,8 @@
 
 The NPM module for work with Yandex.Translate API
 
-Для работы модуля требуется библиотека ```XMLHttpRequest```
+Для работы модуля требуется библиотека ```XMLHttpRequest``` 
+
 Самое простое применение модуля:
 
 ```javascript
