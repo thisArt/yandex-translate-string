@@ -8,7 +8,7 @@ The NPM module for work with Yandex.Translate API
 
 ```javascript
 var toTranslate = require("./index")(API_KEY); // "API_KEY" - ключь API для работы с Яндекс.Переводчиком.
-console.log('Пример перевода на английский!'.toTranslate('en', 'plain'));
+console.log('Пример перевода на английский!'.toTranslate('en', 'plain')); // Example of translation in English!
 
 console.log('Пример получения файла формата JSONP'.toDetect('ru, en', 'getCodeJSONP')); // вывод:
                                                                                         // getCodeJSONP({"code":200,"lang":"en"})
