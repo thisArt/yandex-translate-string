@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "The NPM module for work with Yandex.Translate API",
   "main": "index.js",
+  "devdependencies": {
+    "xmlhttprequest": "1.8.0"
+  },
   "devDependencies": {
     "xmlhttprequest": "1.8.0"
     },
